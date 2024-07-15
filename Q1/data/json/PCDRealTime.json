@@ -1,0 +1,83 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#PcdRealTime",
+    "value": [
+        {
+            "Station": "BP11",
+            "StartTime": "2021-11-02T13:20:00+08:00",
+            "EndTime": "2021-11-02T13:30:00+08:00",
+            "CrowdLevel": "l"
+        },
+        {
+            "Station": "BP6",
+            "StartTime": "2021-11-02T13:20:00+08:00",
+            "EndTime": "2021-11-02T13:30:00+08:00",
+            "CrowdLevel": "l"
+        },
+        {
+            "Station": "BP8",
+            "StartTime": "2021-11-02T13:20:00+08:00",
+            "EndTime": "2021-11-02T13:30:00+08:00",
+            "CrowdLevel": "l"
+        },
+        {
+            "Station": "BP9",
+            "StartTime": "2021-11-02T13:20:00+08:00",
+            "EndTime": "2021-11-02T13:30:00+08:00",
+            "CrowdLevel": "l"
+        },
+        {
+            "Station": "BP2",
+            "StartTime": "2021-11-02T13:20:00+08:00",
+            "EndTime": "2021-11-02T13:30:00+08:00",
+            "CrowdLevel": "l"
+        },
+        {
+            "Station": "BP3",
+            "StartTime": "2021-11-02T13:20:00+08:00",
+            "EndTime": "2021-11-02T13:30:00+08:00",
+            "CrowdLevel": "l"
+        },
+        {
+            "Station": "BP5",
+            "StartTime": "2021-11-02T13:20:00+08:00",
+            "EndTime": "2021-11-02T13:30:00+08:00",
+            "CrowdLevel": "l"
+        },
+        {
+            "Station": "BP7",
+            "StartTime": "2021-11-02T13:20:00+08:00",
+            "EndTime": "2021-11-02T13:30:00+08:00",
+            "CrowdLevel": "l"
+        },
+        {
+            "Station": "BP1",
+            "StartTime": "2021-11-02T13:20:00+08:00",
+            "EndTime": "2021-11-02T13:30:00+08:00",
+            "CrowdLevel": "l"
+        },
+        {
+            "Station": "BP10",
+            "StartTime": "2021-11-02T13:20:00+08:00",
+            "EndTime": "2021-11-02T13:30:00+08:00",
+            "CrowdLevel": "l"
+        },
+        {
+            "Station": "BP12",
+            "StartTime": "2021-11-02T13:20:00+08:00",
+            "EndTime": "2021-11-02T13:30:00+08:00",
+            "CrowdLevel": "l"
+        },
+        {
+            "Station": "BP13",
+            "StartTime": "2021-11-02T13:20:00+08:00",
+            "EndTime": "2021-11-02T13:30:00+08:00",
+            "CrowdLevel": "l"
+        },
+        {
+            "Station": "BP4",
+            "StartTime": "2021-11-02T13:20:00+08:00",
+            "EndTime": "2021-11-02T13:30:00+08:00",
+            "CrowdLevel": "l"
+        }
+    ]
+}
