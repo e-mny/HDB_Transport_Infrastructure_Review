@@ -1,8 +1,0 @@
-{
-    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#FarecardBatch",
-    "value": [
-        {
-            "Link": "https://ltafarecard.s3.ap-southeast-1.amazonaws.com/202001/origin_destination_bus_202001.zip?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIgNmnfYw5xkvxX3JThLF4pI6Jz%2FJcAr1pBGs5cTc7OUm8CIQC4bnE7hRrqOkuh22MIVgVAwPK3u0EzRcLPVjMzfjbU2SqjAwg%2FEAEaDDM0MDY0NTM4MTMwNCIMCP82yJ6J3V8CGO6EKoADnU4YwnmxMzKSLdYeyuGltzbnIikcSWdjku5kuIePwwDDWllhvJnpBhkqBwSMLYdGlbDC8CDfSVx%2FylJsCVYvifmoPjG%2BD8E347puRsqC1XMTtJEFka%2F9fgFyZBy4m0Rw4i595dzXlk%2BZnMlIs8ES02PD5WEvI80etVCrkMGk4B3QC%2BKX7Kla%2BKQfUy3PCR9Q%2FlkeENnbZOLCwe6OmBWMToqrWd1IAz4SUEyJjHlPQBAF7wncPevY3Rix9DXIPr%2BbiHt09aiBdC1R0n7QQn1GEztA4f3Y0MtUYFh3%2F9vweOuNLo2nlMdMeBdSeBnuEryaSbvhwQC11CW0R3AAF%2BPBwHf29cKFedwEJkuYbqFIuQbca5G2lKTv70ixTGK%2F1XUEnfnHLmC7kRhXd5IK7DraYRsGf3kEM79jkMk0RbR1wE2oEc1U7W3ioalxx7cc8ll%2BeGnHv4Nwf5TORphBqiJ1uXrgeZGmi71bL1%2Bp2SbFfpUrdEJiImdj0kN0HURZKj%2F2MKeZjvIFOusB5v7AST7S9Bx3ed%2FIfayy9OyLCAOMqmVonsYzSarI3Qxjl6qBYmTfV8kz19KykKi2x66v8%2Fp72bF9ubtvci6TByBtMcTn1F5oxtwVAU0koju8t7KU0Y%2BS6PG6irXiLz2cxGoaGgKLwt5%2BYRc4IFEbnBdW9wyl3UTgwEu%2FUPml%2FAxA5uqjshp9h4XFjS7zq4aynbDNs5AaSLfidwSO2z8VknwoHXlee5lsMKJdntLg87Yc0FEmLmmhfGK5a2tWPYCOgQoOk5qbcxYGuy07gTXoTR%2BPFCKpwdOZaVafh8oXy3gXRp%2BAbtelK1Xk0w%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200212T064416Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAU6UAMAS4GVQ53HPT%2F20200212%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Signature=85fa7c603972eb477d17c5784701b2d494dc75a633d3073752816e193626c8cb"
-        }
-    ]
-}
