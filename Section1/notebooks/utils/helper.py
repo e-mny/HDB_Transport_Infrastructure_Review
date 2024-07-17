@@ -158,9 +158,7 @@ def convertZeroToNan(df: gpd.GeoDataFrame, col_name: str) -> gpd.GeoDataFrame:
 
 # Create a new dataframe that determines the number of public transport stops within a region   
 def createPTStopsDF(geo_df: gpd.GeoDataFrame, pt_stops_gdf: gpd.GeoDataFrame, pt_type: str) -> gpd.GeoDataFrame:
-    print(geo_df.crs)
-    print(pt_stops_gdf.crs)
-    pt_stops_in_region = gpd.sjoin(geo_df, pt_stops_gdf, how='inner')
+    pt_stops_in_region = gpd.sjoin(geo_df, pt_stops_gdf.set_crs("EPSG:4326"), how='inner')
     pt_stops_count = pt_stops_in_region.groupby(
         'Area').size().reset_index(name=f'{pt_type}_stops_count')
 
