@@ -1,6 +1,6 @@
 # HDB vs Public Transport Infrastructure Analysis
 
-![LTAMasterPlan2040](./res/LTMP2040 Main Summary.png)
+![LTAMasterPlan2040]("./res/LTMP2040 Main Summary.png")
 
 ## 📙 Overview
 
