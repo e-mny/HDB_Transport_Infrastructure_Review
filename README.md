@@ -24,40 +24,32 @@ This data science project analyzes the relationship between HDB developments and
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/hdb-public-transport-analysis.git
-    cd hdb-public-transport-analysis
+    git clone https://github.com/e-mny/HDB_Transport_Infrastructure_Review
+    cd HDB_Transport_Infrastructure_Review
     ```
 
-2. **Create a Virtual Environment**:
-    ```sh
-    python3 -m venv env
-    source env/bin/activate  # On Windows, use `env\Scripts\activate`
-    ```
-
-3. **Install Dependencies**:
+2. **Install Dependencies**:
     ```sh
     pip install -r requirements.txt
     ```
 
-4. **Run Jupyter Notebook**:
+3. **Run Jupyter Notebook**:
     ```sh
+    cd notebooks
     jupyter notebook
     ```
 
-5. **Open the Project Notebook**:
+4. **Open the Project Notebook**:
     - Open `HDB_Public_Transport_Analysis.ipynb` in Jupyter Notebook to start exploring the analysis.
 
 ## 🕹️ Usage
 
-1. **Data Collection**:
-    - Run the data collection scripts to gather the necessary datasets.
-
-2. **Data Cleaning**:
+1. **Data Cleaning**:
     - Clean and preprocess the data using the provided Jupyter Notebook cells.
 
-3. **Data Analysis**:
+2. **Data Analysis**:
     - Execute the analysis cells to generate insights and visualizations.
 
-4. **Project Recommendations**:
+3. **Project Recommendations**:
     - Review the final recommendations for LTA based on the analysis.
 
