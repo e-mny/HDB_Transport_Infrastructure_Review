@@ -1,0 +1,11 @@
+pandas
+folium
+shapely
+geopandas
+area
+branca
+requests
+numpy
+python-dotenv
+matplotlib
+seaborn

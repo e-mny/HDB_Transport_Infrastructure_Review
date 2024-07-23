@@ -1,5 +1,4 @@
-from shapely.geometry import mapping
-from shapely.geometry import Polygon
+from shapely.geometry import mapping, Polygon
 import geopandas as gpd
 from . import pd, folium, Polygon, gpd
 from utils.helper import createColorMap, createIndexedDict, convertZeroToNan
