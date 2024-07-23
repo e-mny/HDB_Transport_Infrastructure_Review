@@ -40,7 +40,7 @@ This data science project analyzes the relationship between HDB developments and
     ```
 
 4. **Open the Project Notebook**:
-    - Open `HDB_Public_Transport_Analysis.ipynb` in Jupyter Notebook to start exploring the analysis.
+    - Open `*.ipynb` in Jupyter Notebook to start exploring the analysis.
 
 ## 🕹️ Usage
 
